@@ -24,7 +24,7 @@ Genel olarak yapacağınız adımlar şunlar olacak:
 # Installation
 Öncelikle projeyi klonlayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 ```
-git clone https://github.com/ilkaysefer/PatikaVeriBilimineGiris.git
+git clone https://github.com/ilkaysefer/DataScience101Project
 ```
 
 # Usage
@@ -33,7 +33,7 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
-cd Veri Yapları ve Algoritmalar Proje-1-2-3
+cd DataScience101Project
 code .
 ```
 
