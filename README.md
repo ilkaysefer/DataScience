@@ -1,5 +1,5 @@
-# Veri Yapları ve Algoritmalar Proje-1-2-3
-Bu repo [Patika.dev](https://www.patika.dev/tr) Veri Bilimine Proje odev konusunu içerir.
+# Veri Bilimi 101
+Bu repo [Patika.dev](https://www.patika.dev/tr) Veri Bilimi Proje odev konusunu içerir.
 
 <p align="center" width="100%">
     <img width="25%" src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png"> 
